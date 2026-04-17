@@ -1,0 +1,1 @@
+## Índex de les configuracions
