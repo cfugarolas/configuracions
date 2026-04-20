@@ -3,3 +3,8 @@ Repositori de configuracions d'entorn i aplicatius
 ## 📚 Índex
 
 - [Llibreta de direccions predeterminada O365](https://github.com/cfugarolas/configuracions/blob/main/llibreta_direccions_predeter_o365.md)
+
+[![](https://img.plantuml.biz/plantuml/svg/PP2n3e8m54NtViKTwz1447Ry0mStuj2aBuHG2xRFA7zlQyL0MEyvvpLf4rXxxhHZ5kt5ZppoF14CXRvpDtXwF7jF0KKDe-SWsYi5nhI8Q-EO3QLmjXRqrlV94fIAZGu32iWY6OTrauR8IyXyVmt_BvvI-I8QjcbQ8gqM2kqCgjsP7OnD3Lb-vutvcqH3pkGV-G00)](https://editor.plantuml.com/uml/PP2n3e8m54NtViKTwz1447Ry0mStuj2aBuHG2xRFA7zlQyL0MEyvvpLf4rXxxhHZ5kt5ZppoF14CXRvpDtXwF7jF0KKDe-SWsYi5nhI8Q-EO3QLmjXRqrlV94fIAZGu32iWY6OTrauR8IyXyVmt_BvvI-I8QjcbQ8gqM2kqCgjsP7OnD3Lb-vutvcqH3pkGV-G00)
+
+[![](https://img.plantuml.biz/plantuml/svg/SoWkIImgIK_CAodXYWueoY_9BwaiI5L8IItEJC-BLIXABIpDB4ejLZ0qLKX9h2pcYWv9BIvHA80fH5PX05711JGbApMvH05iSh62aO6HWQw1kQw18JOBi2X2jm5DYQ4PbqDgNWh4oG00)](https://editor.plantuml.com/uml/SoWkIImgIK_CAodXYWueoY_9BwaiI5L8IItEJC-BLIXABIpDB4ejLZ0qLKX9h2pcYWv9BIvHA80fH5PX05711JGbApMvH05iSh62aO6HWQw1kQw18JOBi2X2jm5DYQ4PbqDgNWh4oG00)
+
